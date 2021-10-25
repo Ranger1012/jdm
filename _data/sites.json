@@ -1,17 +1,5 @@
 [
     {
-        "name": "/e/",
-        "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
-        "difficulty": "easy",
-        "notes": "Profile > settings > delete account > confirm",
-        "notes_ru": "Профиль > настройки > удалить аккаунт > подтвердить.",
-        "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesabı Sil\" \"Onayla\"",
-        "domains": [
-            "e.foundation",
-            "ecloud.global"
-        ]
-    },
-    {
         "name": "前程无忧",
         "url": "https://login.51job.com/closeaccount.php",
         "difficulty": "easy",
