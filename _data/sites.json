@@ -207,5 +207,30 @@
             "wx.qq.com",
             "weixin.qq.com"
         ]
+    },{
+        "name":"爱发电",
+        "url":"https://afdian.net/@afdian",
+        "difficulty":"medium",
+        "notes":"私信网站运营者说明需要注销账号",
+        "domains":[
+            "afdian.net"
+        ]
+    },{
+        "name":"西部数码",
+        "url":"https://www.west.cn/manager/questionnew/index.asp",
+        "difficulty":"medium",
+        "notes":"提交工单说明需要注销账号。",
+        "domains":[
+            "www.west.cn"
+        ]
+    },{
+        "name":"360国际版",
+        "url":"https://www.360totalsecurity.com/en/help/delete-account/",
+        "difficulty":"medium",
+        "notes":"发邮件说明需要删除账号",
+        "email":"support@360safe.com",
+        "domains":[
+            "360totalsecurity.com"
+        ]
     }
 ]
