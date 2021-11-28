@@ -232,5 +232,13 @@
         "domains":[
             "360totalsecurity.com"
         ]
+    },{
+        "name":"快帆",
+        "url":"",
+        "difficulty":"easy",
+        "notes":"只有Android客户端有注销入口，依次选择 我的 > 账户编辑 > 右上角账号注销",
+        "domains":[
+            "speedin.in"
+        ]
     }
 ]
