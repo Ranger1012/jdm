@@ -226,8 +226,8 @@
     },{
         "name":"360国际版",
         "url":"https://www.360totalsecurity.com/en/help/delete-account/",
-        "difficulty":"medium",
-        "notes":"发邮件说明需要删除账号",
+        "difficulty":"impossible",
+        "notes":"发邮件说明需要删除账号,邮件无回复。",
         "email":"support@360safe.com",
         "domains":[
             "360totalsecurity.com"
@@ -240,5 +240,50 @@
         "domains":[
             "speedin.in"
         ]
-    }
+    },{
+        "name":"沪江网校",
+        "url":"https://kefu.hujiang.com/faq/1355",
+        "difficulty":"medium",
+        "notes":"需要下载手机客户端"
+    },{
+        "name":"快代理",
+        "url":"https://www.kuaidaili.com/usercenter/destroyaccount/",
+        "difficulty":"easy",
+        "notes":"接收手机验证码.",
+        "domains":[
+            "www.kuaidaili.com"
+        ]
+    },{
+        "name":"YY",
+        "url":"https://kf.yy.com/search/qa/1931.html#=%u6CE8%u9500",
+        "difficulty":"medium",
+        "notes":"需要PC客户端",
+        "domains":[
+            "www.yy.com"
+        ]
+    },{
+        "name":"AcFun",
+        "url":"https://www.acfun.cn/about/help",
+        "difficulty":"hard",
+        "notes":"问题>帐号相关>账号登陆>我想注销账号,怎么办?",
+        "domains":[
+            "www.acfun.cn"
+        ]
+    },{
+        "name":"BattleNet CN",
+        "url":"https://www.blizzardgames.cn/zh-cn/legal/1c6ada91-4be1-4e5d-afb3-c44ace09a8d6/%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96",
+        "difficulty":"hard",
+        "notes":"问题>帐号相关>账号登陆>我想注销账号,怎么办?",
+        "domains":[
+            "www.battlenet.com.cn"
+        ]
+    },{
+        "name":"字魂网",
+        "url":"https://izihun.com/question/",
+        "difficulty":"hard",
+        "notes":"问题>其他问题>字魂网用户隐私政策>第五条，需要联系客服",
+        "domains":[
+            "izihun.com"
+        ]
+    }    
 ]
